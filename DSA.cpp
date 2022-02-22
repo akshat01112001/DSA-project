@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 #define ll long long int
-#define ISEMPTY cout<<"\nEMPTY LIST:";
+#define ISEMPTY cout<<"EMPTY LIST:";
 
 using namespace std;
 
@@ -34,7 +34,6 @@ void manageProduct()
 
     while (1)
     {
-        system("cls");
         cout<<"========================================================="<<endl;
         cout<<"\t\t WELCOME MANAGER!!"<<endl;
         cout<<"========================================================="<<endl;
